@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+torch
+torch-geometric
+rdkit
+plotly
+matplotlib
+networkx
+Pillow
