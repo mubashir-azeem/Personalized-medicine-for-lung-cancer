@@ -1,0 +1,6 @@
+Model,RMSE,R2,Pearson
+No Attention,2.6615,0.0888,0.3525
+Attention,2.2,0.376,0.672
+Attention + Mutation,2.591,0.1364,0.4228
+Task-Aware + Mutation + Attention,2.5692,0.1509,0.4121
+End-to-End Drug GNN (230 Epochs),1.053482761945813,0.858436712594821,0.92718453

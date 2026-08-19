@@ -1,0 +1,12 @@
+Model,RMSE,MAE,R2,Pearson
+Linear Regression,1.1935,0.9097,0.8168,0.9039
+XGBoost,1.1339,0.8645,0.8346,0.9138
+No Attention,2.6615,2.1159,0.0888,0.3525
+Attention,2.2,,0.376,0.672
+Attention + Mutation,2.591,2.0655,0.1364,0.4228
+Task-Aware + Mutation + Attention,2.5692,2.0281,0.1509,0.4121
+End-to-End Drug GNN (30 Epochs),2.1306,1.6698,0.416,0.651
+End-to-End Drug GNN (130 Epochs),1.4876,1.1579,0.7153,0.847
+End-to-End Drug GNN (170 Epochs),1.3551,1.0514,0.7638,0.8761
+End-to-End Drug GNN (190 Epochs),1.2968,1.002,0.7837,0.8857
+End-to-End Drug GNN (230 Epochs),1.053482761945813,0.814297563182941,0.858436712594821,0.92718453
