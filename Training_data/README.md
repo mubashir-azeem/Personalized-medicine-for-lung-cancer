@@ -4,7 +4,7 @@ The complete training datasets used for model development and training are store
 
 **Training Data Folder:**
 
-**[Add your Google Drive folder link here]**
+**https://drive.google.com/drive/folders/1YitT_smXknt6Bbs8I6LZiaRI6u-xkqJi?usp=sharing**
 
 ## Available Datasets
 
